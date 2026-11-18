@@ -1,0 +1,16 @@
+DATA LOG
+****************************************
+Customer Name: ZIYAAD
+Product: Cozy Nights Monarch
+VAT: R 375,00
+COMMISSION: R 125,00
+TOTAL: R 3000,00
+****************************************
+DATA LOG
+****************************************
+Customer Name: ZIYAAD
+Product: Cozy Nights Monarch
+VAT: R 375,00
+COMMISSION: R 125,00
+TOTAL: R 3000,00
+****************************************
